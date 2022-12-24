@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Achille Quarante
 - 👀 I’m interested in applying data acquisition and analysis to ressearch in particle physics
-- 🌱 I’m currently learning python with a plan to start using Root in the near future
-- 📫 How to reach me ..
+- 🌱 I’m currently learning python and use packages such as NumPy, PyRoot, Matplotlib, Pandas, ...
